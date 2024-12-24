@@ -22,8 +22,8 @@ spring:
   mail:
     host: localhost
     port: 1025
-    username: alibou
-    password: alibou
+    username: alpha
+    password: alpha
     properties:
       mail:
         smtp:
